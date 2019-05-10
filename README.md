@@ -1,6 +1,6 @@
-#SambaPOS Touch Screen POS Software
+#SambaPOS Touch Screen POS Software Advanced Mod by Ubden
 
 More Information
-http://emreeren.github.com/SambaPOS-3/
+http://www.ubden.com
 
-Visit www.sambapos.com for stable releases.
+Visit www.ubden.com for stable releases.
